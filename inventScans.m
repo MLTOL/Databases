@@ -2,7 +2,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%  Author: M.L.Tolhuisen (m.l.tolhuisen@amc.uva.nl)
 %%  
-%%  Function:   runs an inventory of all available scans within a dataset
+%%  Function:   runs an inventory of all available scans within a DICOM dataset, in which DICOM directories are sorted by patient
 %%
 %%
 %%  Input:
